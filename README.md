@@ -4,6 +4,7 @@
 * Vào thư mục đã tải và nháy đúp chuột vào file `game.exe`.
 ---
 2. **Mô tả chung về trò chơi**    
+* [Video minh hoạ](https://youtu.be/dVorCNzX0mc)  
 * Trò chơi cho phép người chơi điều khiển tàu chiến hộ tống đoàn tàu tiếp tế, bảo vệ đoàn tàu khỏi tàu ngầm của quân địch.  
 * Người chơi sẽ phải sử dụng bom chìm - một loại vũ khí chống tàu ngầm để tấn công tàu ngầm địch, đồng thời phải điều khiển cẩn thận để né ngư lôi và không va phải hay thả bom chìm trúng tàu đồng minh.  
 * Ý tưởng chính:  
