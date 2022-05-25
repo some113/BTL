@@ -31,6 +31,7 @@
 5. **Kết luận, hướng phát triển**  
 * Kết luận: việc viết code sạch, đẹp cùng với việc chia nhỏ code thành các hàm trong lập trình là một điều rất quan trọng cả ở dự án cá nhân và dự án nhiều người; những việc dù rất nhỏ như đặt tên biến đúng cách lại rất cần thiết.
 * Hướng phát triển:
+    * Cải thiện hệ thống điều khiển cho linh hoạt hơn
     * Cho phép người chơi sắp xếp đội hình lúc bắt đầu
     * Thêm âm thanh vào trò chơi
     * Cải thiện chất lượng hình ảnh
